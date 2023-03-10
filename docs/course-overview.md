@@ -10,6 +10,8 @@ This overview will be updated as the semester progresses.
 
 For a more detailed semester overview, take a look at the [course-schedule](../docs/course-schedule.md). 
 
+
+<!-- 
 |	Week	|	Date	|	Market Research (MR)	|	Statistics (S)	|	Slides	|	Materials	|
 |	---	|	---	|	---	|	---	|	---	|	---	|
 |	1	|	11.10.	|	Introduction	|	Introduction to data	|	[📑](https://drive.google.com/file/d/1-WrEI0wxKQX_MJyt6sAvy4UVuNo0EVWS/view?usp=sharing)	|	[📁](../weeks/week1.md)	|
@@ -26,4 +28,4 @@ For a more detailed semester overview, take a look at the [course-schedule](../d
 |	12	|	17.01.	|	Statistical inference	|	Statistical inference	|	[📑](https://drive.google.com/file/d/115Q0y2T7GD9VGEd3irJljxm4V684TT9O/view?usp=sharing)	|	[📁](../weeks/week12.md)	|
 |	13	|	24.01.	|	Repetition	|	Repetition	|	 -	|	 -	|
 
-
+ -->

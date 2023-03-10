@@ -6,16 +6,16 @@
 
 |                   | Day       | Time                  | Location    |
 |-----------        |-----------|-------------------    |-------------|
-| Market research   | Tuesday   | 14:15 am - 15:45 pm   |  Room 016b  |
-| Statistics        | Tuesday   | 16:00 pm - 17:30 pm   |  Room 016b  |
+| Market research   | Tuesday   | 14:15 am - 15:45 pm   |  Room 108  |
+| Statistics        | Tuesday   | 16:00 pm - 17:30 pm   |  Room 108  |
 
-
+<!-- 
 ```{image} ../_static/img/room.png
 :alt: course location
 :class: bg-primary mb-1
 :width: 400px
 :align: center
-```
+``` -->
 
 
 ## Course topics
@@ -54,18 +54,18 @@ Textbook for the course:
 A lot of what you do in this course will involve writing code, and coding is a skill that is best learned by doing.
 Therefore, as much as possible, you will be working on a variety of tasks and activities throughout each lecture.
 
-You are expected to bring a laptop to each class so that you can take part in the in-class exercises.
 
 
 ## Assessment
 
-Assessment for the course is comprised of two components: 
+Assessment for the course: 
 
-- Optional [application exercises](application-exercises) to obtain 10 bonus points for the exam
-- Exam (90 minutes at the end of the semester. 60% market research and 40% statistics)
+<!-- - Optional [application exercises](application-exercises) to obtain 10 bonus points for the exam -->
+
+- E-Exam (90 minutes at the end of the semester. 60% market research and 40% statistics)
 
 
-(application-exercises)=
+<!-- (application-exercises)=
 ### Application exercises
 
 Parts of some lectures will be dedicated to working on "Application Exercises" (AE). These small exercises will give you an opportunity to practice apply the concepts and code introduced in the readings and lectures. 
@@ -78,14 +78,14 @@ AEs are usually due within three days after lecture
 
 The AEs are due within **three days** after the corresponding lecture. For example, AEs from a Tuesday lecture would be due Friday by 11:59 pm ET.
 
-Because these AEs are for practice, they will be graded based on completion. Successful on-time completion of at least 80% of every AE will result in full credit (+10 bouns points in exam). 
+Because these AEs are for practice, they will be graded based on completion. Successful on-time completion of at least 80% of every AE will result in full credit (+10 bouns points in exam).  -->
 
 (exams)=
 ### Exam
 
 There will be one exam at the end of the semester. Through the exam you have the opportunity to demonstrate what you've learned in the course.
 
-The exam will focus on the conceptual understanding of the content but will also cover programming topics.  
+<!-- The exam will focus on the conceptual understanding of the content but will also cover programming topics.   -->
 
 More details about the exams will be given during the semester.
 

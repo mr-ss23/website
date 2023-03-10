@@ -6,6 +6,7 @@ This page contains a detailed overview about the topics, readings,  application 
 This overview will be updated as the semester progresses.
 :::
 
+<!-- 
 |	Lecture	|	Week	|	Nr.	|	Date	|	Topic	|	Prepare	|	Slides	|	AE	|	Q	|
 |	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|	---	|
 |	MR	|	1	|	1	|	11.10.	|	Data driven	|		|	[📑](https://drive.google.com/file/d/1-WrEI0wxKQX_MJyt6sAvy4UVuNo0EVWS/view?usp=sharing)	|		|		|
@@ -80,4 +81,4 @@ This overview will be updated as the semester progresses.
 |	S	|	11	|	70	|	10.01.	|	Two proportions mammogram	|	[📚](https://openintro-ims.netlify.app/inference-two-props.html#hypothesis-test-for-the-difference-between-two-proportions)	|		|		|		|
 |	MR	|	12	|	71	|	17.01.	|	Two way tables randomization	|	[📚](https://openintro-ims.netlify.app/inference-tables.html#randomization-test-of-independence)	|	[📑](https://drive.google.com/file/d/115Q0y2T7GD9VGEd3irJljxm4V684TT9O/view?usp=sharing)	|		|		|
 |	MR	|	12	|	72	|	17.01.	|	Two way tables mathematical	|	[📚](https://openintro-ims.netlify.app/inference-tables.html#mathchisq)	|		|		|		|
-|	MR	|	13	|	76	|	24.01.	|	Repetition	|		|		|		|		|
+|	MR	|	13	|	76	|	24.01.	|	Repetition	|		|		|		|		| -->
