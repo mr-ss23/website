@@ -5,4 +5,3 @@ pandas
 seaborn
 altair
 scikit-learn
-statsmodels
